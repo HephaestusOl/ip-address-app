@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Get ip</string>
+    <string name="initial_ip_text">Press button to get IP</string>
+    <string name="get_ip_button">Get IP Address</string>
+    <string name="ip_display_template">Your IP: %s</string>
+</resources>
